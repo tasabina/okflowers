@@ -1,0 +1,86 @@
+body{
+    background: #ffffff;
+    color: #2F4552;
+}
+header{
+
+    display: block;
+    text-align: center;
+    line-height: 0.8em;
+}
+
+h1{
+    font-size: 32px;
+}
+p{
+    font-size: 18px;
+    color: #5e5e5e;
+}
+.container{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 50px;
+    width: 70%;
+    text-align: center;
+    display: inline;
+
+}
+
+label{
+    font-size: 18px;
+    line-height: 2em;
+    text-align: left;
+
+}
+
+input{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 500px;
+    border-radius: 5px;
+    border-color: #5e5e5e;
+    height: 30px;
+    padding: 10px;
+    font-size: 15px;
+    border-width: 1px;
+}
+
+select{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 520px;
+    border-radius: 5px;
+    border-color: #5e5e5e;
+    height: 30px;
+    padding: 5px;
+    font-size: 15px;
+    border-width: 1px;
+}
+
+
+textarea{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 500px;
+    border-radius: 5px;
+    border-color: #5e5e5e;
+    height: 500px;
+    padding: 10px;
+    font-size: 15px;
+    border-width: 1px;
+    scrollbar-arrow-color: rgba(219, 219, 219, 0.5);
+    scrollbar-track-color: #ffffff;
+
+}
+
+.btn{
+    border-radius: 5px;
+    height: 30px;
+    width: auto;
+    color: #ffffff;
+    background-color: #4cae4c;
+    border: none;
+    margin: 10px;
+
+}
+
+.upload input{
+    border-color: #2a6496;
+
+}
