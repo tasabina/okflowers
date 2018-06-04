@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="admin_page.css" />
+		<link rel="stylesheet" type="text/css" href="../app/admin_page.css" />
 		<title>Okflowers</title>
 	</head>
 	<body>
@@ -13,7 +13,7 @@
 		</header>
 		<main>
 			<div>
-				<form action="admin/action_update.php" method="post" enctype="multipart/form-data">
+				<form action="admin/action.php" method="post" enctype="multipart/form-data">
 				<div>
 				<label>Section:</label>
 				</div>

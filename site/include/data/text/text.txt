@@ -1,7 +1,0 @@
-The name of article.
-
-One the preparation stage I have begun other parallel work about development a web site architecture and creating its structure.  I have decided that web site will be a one page structure with special requirements and feedback forms. 
-Then I have started creating design of the web site, preparing HTML and CSS patterns and templates. On this stage I created one page template by HTML, and designed some interactive features by CSS and JavaScript. 
-After this stage I have done back-end or server part of my web site by PHP script and created a MySQL database. I created HTML form that must be uploaded information about customer into the database and I have decided to create special class which will work with this information. There were a difficulties, which I must solve. At first, I must convert date in the special format. Secondly, a creating special distract directory, where I can save list of city’s districts.  
-The next stage was deploying into a cloud. I choose AWS – Amazon Web Services. I have an account on this server and the main reason was opportunity to using last version PHP and integration with MySQL database. 
-Also, during my web development period, I was testing my web site and after uploading in to the cloud I have done the final test. 

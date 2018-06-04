@@ -1,12 +1,4 @@
 <?php
-$path = 'newsite/admin/connection.php';
-require_once ($_SERVER['DOCUMENT_ROOT'].'/'. $path);
-$link = mysqli_connect(DATABASE_HOST,DATABASE_USERNAME,DATABASE_PASSWORD, DATABASE_NAME)
-or die ("<p> Error connection to Data base:". mysqli_error()."</p>");
-mysqli_select_db($link, DATABASE_NAME) or die ("<p> Error:".mysqli_error()."</p>");
-$query = "SELECT `text`,`title`, `subtitle` FROM `contact` WHERE `id` = 1";
-
-$result = mysqli_query($link, $query);
 if (mysqli_num_rows($result) > 0) {
 
     while ($row = mysqli_fetch_assoc($result)) {
