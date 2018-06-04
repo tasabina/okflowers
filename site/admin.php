@@ -19,11 +19,11 @@
 				</div>
 				<div>
 				<select id="id" name="id">
-					<option value="15">Hello</option>
-					<option value="12">About me</option>
-					<option value="13">My work</option>
-					<option value="14">My offer</option>
-					<option value="1">Contact</option>
+					<option value="1">Hello</option>
+					<option value="2">About me</option>
+					<option value="3">My work</option>
+					<option value="4">My offer</option>
+					<option value="5">Contact</option>
 				</select>
 				</div>
 				<div>
