@@ -1,5 +1,5 @@
 <?php
-include ('title.inc.php');
+include('include/title.inc.php');
 ?>
 <body class="theme-invert">
 
